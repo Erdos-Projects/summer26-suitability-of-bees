@@ -39,6 +39,12 @@ Bee sighting records are likely concentrated around regions with the easiest acc
 # KPI Definitions
 
 > Michael comment - I am actually not sure what the best KPI for determining optimal models will be here. How do we evaluate a GLM combining things like weather data, sighting data etc? We are producing a probability distribution over the state of Utah, so I need to look into how we evaluate the "effectiveness" of this probability distribution on training data (since this isn't a classification problem).
+>
+> For cross-validation, what is the best scoring metric for the GLMs/Maxent models, and how do we make sure spatial data is properly separated (or maybe condensed? could it be good to separate different spatial grouping of bee sightings into separate training sets to see if a model can extrapolate from one group to a good predictor of a different known group?)?
+>
+> Seems like we might want to use AUC-ROC where 0 is "species isn't present" and 1 is "species is present" for a classification model. Google also mentions the "Continuous Boyce Index" for evaluation,
+>
+> Relevant article about [species distribution models and their evaluation](https://www.biorxiv.org/content/10.1101/2020.06.10.143917v2.full)
 
 Primary KPI -  
 
