@@ -1,0 +1,7 @@
+coreid,resourceRelationshipID,resourceID,relationshipOfResourceID,relatedResourceID,relationshipOfResource,relationshipAccordingTo,relationshipEstablishedDate,relationshipRemarks,scientificName,basisOfRecord,dynamicProperties
+5598649,f40041cf-6aa7-482b-8f26-9abba0a7c51d,82818b53-0eda-4625-9f78-2f3cd72dd465,,f09d4b1f-19b3-474e-8863-c839a070a38a,hasHost,,,,,,
+5599060,2829374b-3cdf-4761-a39f-096c2db87f93,4200db2b-e435-4cc8-8e44-7d7e706f913a,,265cd53e-634b-4f84-9b9e-cfbb4fff81c5,hasHost,,,,,,
+5599327,c93713d3-0f7d-4ce7-b433-fa55e8407e55,1a4e8fe1-cae2-4c07-831b-bc5b224d5fcf,,3eae4e9e-133a-4f00-b356-769efdd8d934,hasHost,,,,,,
+5599682,b92f9874-35f0-4360-b328-f53c2972d8ce,2e191c64-8ba0-4f89-b47f-f8670bc2e4f1,,dfc61bae-c57a-48a3-af37-79fa199ce46e,hasHost,,,,,,
+5599816,4f4b8fcf-8c5c-4013-8bc6-90eb144d122b,36f69adf-b191-490d-9c4e-0acc52dc44e8,,1e39165e-da6d-4dd3-8e6f-9ef878d62c27,hasHost,,,,"Toxicoscordion paniculatum",,
+6081053,c21bd30d-8c9a-4cfd-8cc7-5a35516516b4,87fae8f4-e605-4e3e-b276-673e7714ec91,,https://www.inaturalist.org/observations/164337854,hasHost,,,,"Toxicoscordion venenosum",,

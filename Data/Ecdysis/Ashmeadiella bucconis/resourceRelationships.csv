@@ -1,0 +1,10 @@
+coreid,resourceRelationshipID,resourceID,relationshipOfResourceID,relatedResourceID,relationshipOfResource,relationshipAccordingTo,relationshipEstablishedDate,relationshipRemarks,scientificName,basisOfRecord,dynamicProperties
+5596465,ca2e909d-cbd5-486d-96ec-49451ba3ae73,2fa83876-b8de-45f9-ba59-585804d28800,,86b443c4-c4b3-4827-b619-5cc538d190b5,hasHost,,,,"Grindelia squarrosa",,
+5596557,5e4d5b92-33a7-4e47-b63b-50f712932639,19efaa7d-cae8-4320-a1bb-16f09fb11c06,,43d35dc1-28fe-4ec0-9910-256ca1c1a3bb,hasHost,,,,"Grindelia squarrosa",,
+5605567,9aca69ab-ff24-4a48-998b-a69e1f8b5e43,d608b5b8-fa6c-4928-978a-f6a7c1b90330,,c3c64484-acad-4bf9-966d-9796e30561ea,hasHost,,,,"Grindelia squarrosa",,
+5605569,3ffa1593-e613-4037-aa2f-005327221563,e80ae75f-d381-449e-a7a8-a9503862e678,,c3c64484-acad-4bf9-966d-9796e30561ea,hasHost,,,,"Grindelia squarrosa",,
+5605576,c4be91d7-0f28-4b41-8682-dad6b3f04c47,03fc1f3f-3861-4d50-920e-72dc4606b17a,,c3c64484-acad-4bf9-966d-9796e30561ea,hasHost,,,,"Grindelia squarrosa",,
+5605577,0fdc8791-b678-4d4a-bab1-9b1e3a91fd8f,c87e5c84-18fa-4b98-a19f-084dbbdd13d5,,c3c64484-acad-4bf9-966d-9796e30561ea,hasHost,,,,"Grindelia squarrosa",,
+6082090,f83c2d2b-acf9-4ee8-96a0-b42473b899ee,b9aaaf02-9b96-4ec6-97a5-7e7cea05196d,,https://www.inaturalist.org/observations/232043550,hasHost,,,,"Grindelia squarrosa",,
+6082091,153091d5-a836-48c4-b0cd-2c813f07ea90,d2b73762-5c1c-42e7-a8f2-72b0ddbaa5c3,,https://www.inaturalist.org/observations/232043550,hasHost,,,,"Grindelia squarrosa",,
+6082092,82a25e40-a25e-42fc-844f-2b2a89ec9947,503a2422-df48-4d8f-9593-386dd71fb8a1,,https://www.inaturalist.org/observations/232043550,hasHost,,,,"Grindelia squarrosa",,

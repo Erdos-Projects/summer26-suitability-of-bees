@@ -1,0 +1,2 @@
+coreid,resourceRelationshipID,resourceID,relationshipOfResourceID,relatedResourceID,relationshipOfResource,relationshipAccordingTo,relationshipEstablishedDate,relationshipRemarks,scientificName,basisOfRecord,dynamicProperties
+4003616,c1ab7459-d89e-4379-b2c1-8130160f663f,66194b46-1a14-489f-94ae-7bd6da887eb5,,https://doi.org/10.2317/0022-8567-91.4.255,isReferencedBy,"Begosh et al, 2019",,,,MaterialCitation,

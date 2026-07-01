@@ -1,0 +1,6 @@
+This data package was downloaded from a Bee Library Portal on 2026-06-19 04:30:28.
+
+Please use the following format to cite this dataset:
+Biodiversity occurrence data published by: Bee Library (accessed through the Bee Library, https://library.big-bee.net/portal, 2026-06-19).
+
+For more information on citation formats, please see the following page: https://library.big-bee.net/portal/includes/usagepolicy.php

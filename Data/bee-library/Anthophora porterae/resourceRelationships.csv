@@ -1,0 +1,2 @@
+coreid,resourceRelationshipID,resourceID,relationshipOfResourceID,relatedResourceID,relationshipOfResource,relationshipAccordingTo,relationshipEstablishedDate,relationshipRemarks,scientificName,basisOfRecord,dynamicProperties
+4003545,37fad918-5505-464a-8f43-cecd058b6b73,11498140-f4f1-4be0-a8c6-da6b323e2faf,,https://doi.org/10.1093/ee/nvz063,isReferencedBy,"Auerbach et al, 2019",,,,MaterialCitation,
